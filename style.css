@@ -1,0 +1,26 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+#addButton {
+  background-color: lightseagreen;
+  display: block;
+  width: 50px;
+  margin: 10px auto;
+}
+
+#addInputBlock {
+  display: block;
+  margin: 10px 10px;
+}
+
+#detailedInformation {
+  display: block;
+  width: 300px;
+  margin: 10px auto;
+}
